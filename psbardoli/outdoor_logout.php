@@ -1,0 +1,14 @@
+<?php
+include('script/db.php');
+session_start();
+if(isset($_SESSION["cust"]))
+{
+	unset($_SESSION["cust"]);
+	header("location:insert_order_details.php");	
+}
+elseif(isset($_SESSION["function"]))
+{
+	unset($_SESSION["function"]);
+	header("location:insert_order_details.php");	
+}
+?>	

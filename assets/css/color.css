@@ -1,0 +1,115 @@
+/*
+========================================
+color css
+========================================
+*/
+
+.navbar-default .navbar-nav>li>a:hover {
+    background-color: transparent;
+}
+.main-slider-heading h1,
+.slider-text h2,
+.slider-text .text-prt2 h2,
+.slider-text .text-prt2 h1,
+.slider-section-1-text p,
+.navbar-default .navbar-nav>li>a,
+.nav-bar-icon a,
+.tag_list a:hover,
+.itg-button.light,
+.navbar-default .navbar-nav>li>a:hover,
+.featured_video .owl-prev,
+.featured_video .owl-next,
+ul.social_icon a:hover,
+.breadcamb_content .all_heading h2,
+.search button:hover,
+.pagination-box span:hover {
+    color: #ffffff;
+}
+.nav>li>a:focus,
+.nav>li>a:hover {
+    background-color: rgba(96, 125, 139, 0);
+}
+#team-section,
+#team-section,
+#service-section,
+#partner-section,
+.tag_list a,
+.ourbackgound,
+.pagination-box span {
+    background-color: #eeeeee;
+}
+.our_blog h5 a:hover,
+.footer_address a:hover,
+.our_blog h3 a:hover,
+.our_blog span a:hover,
+.our_team_content a:hover,
+.categori a:hover,
+.all_section_heading h2 span,
+.all_heading span,
+.testimonial_content h5,
+.our_blog h5,
+.our_blog a.blog_read i.fa,
+.breadcamb_content .active,
+.recent_content h5 a:hover,
+.recent_content a,
+.comment-box h4,
+.comment_content p a.title,
+.footer_social_icon a:hover,
+.testimonial .owl-nav .owl-prev:hover,
+.testimonial .owl-nav .owl-next:hover,
+.our_team .owl-prev:hover,
+.our_team .owl-next:hover,
+.demo-name h4 a:hover {
+    color: #d50000;
+}
+.search button:hover,
+.tag_list a:hover,
+ul.social_icon a:hover,
+.pagination-box span:hover {
+    background-color: #d50000;
+}
+.categori li:hover,
+.testimonial img {
+    border-color: #d50000;
+}
+.blog_fullwidth .ourbackgound,
+#service-template,
+.our_team_content:hover,
+.our_team_content {
+    background-color: #fff;
+}
+.address_contact h3,
+.contact_field h3,
+.all_section_heading h2,
+.all_heading h2,
+.testimonial_content h3,
+.facts_year h3,
+.our_blog h3,
+h4.recent_blog,
+.recent_content h5 a,
+.error-content,
+.demo-name h4,
+.address_contact h4,
+.contact_field h4 {
+    color: #000;
+}
+.all_section_heading h1,
+.all_heading h1,
+.breadcamb_content h1 {
+    color: #e5e5e5;
+}
+.border,
+figure.two,
+figure.three {
+    border-color: rgba(119, 119, 119, 0.15);
+}
+.comment-box h4 span,
+.address_contact li i,
+.address_contact li span,
+.categori a,
+.tag_list a {
+    color: #777;
+}
+.main_footer {
+    background: #202020;
+}

@@ -1,0 +1,9 @@
+<?php
+include('script/db.php');
+session_start();
+if(isset($_SESSION["asc_cust"]))
+{
+	unset($_SESSION["asc_cust"]);
+	header("location:insert_accessories_details.php");	
+}
+?>	

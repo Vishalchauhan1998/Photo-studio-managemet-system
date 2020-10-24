@@ -1,0 +1,9 @@
+<?php
+include('script/db.php');
+session_start();
+if(isset($_SESSION["p_photo"]))
+{
+	unset($_SESSION["p_photo"]);
+	header("location:photoalbum_details.php");	
+}
+?>	

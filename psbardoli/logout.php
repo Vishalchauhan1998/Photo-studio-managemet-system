@@ -1,0 +1,9 @@
+<?php
+include('script/db.php');
+session_start();
+if(isset($_SESSION["psadmin"]))
+{
+	session_destroy();
+	header("location:index.php");	
+}
+?>	

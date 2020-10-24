@@ -1,0 +1,81 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Cinemato Grapher - Multipurpose Html5 Template For CinematoGraphy & PhotoGraphy
+Version:	1.0.0
+Assigned to:	Themeforest
+Primary use:	Cinematographer, Photographer, Portfolio , Photography, Multipurpose, Responsive  
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+01 Body / body
+02 Default / img
+03 Padding / .pad-top0
+04 Margin / .mar-top0
+05 Button / .itg-button.light
+06 Preloader / .preload
+07 Mixitup / .mixitup_content
+08 Heading section / .all_section_heading
+09 All Heading / .all_heading
+10 Header section / .header_main
+11 Slider section / .slider-section
+12 About Us / #about-section
+13 Service / #service-section
+14 Featured video / #featured-section
+15 Testimonial slider / #testimonial-section
+16 Gallery / #gallery-section
+17 Facts / #facts-section
+18 Team / #team-section
+19 Blog-section / #blog-section
+20 Partner / #partner-section
+21 breadcrumb / .breadcamb_content
+22 blog single / .sidebar
+23 comment / .comment-box figure
+24 Blog fullwidth / .blog_fullwidth .blog_content
+25 Contact / .address_contact
+26 Map / .location-map
+27 Full_preview / .preview_full
+28 Footer / .main_footer
+-------------------------------------------------------------------*/
+
+/*-----------------------------------------------------------------
+[All Css Import]
+-------------------------------------------------------------------*/
+/*---bootstap.CSS inluad---*/
+
+@import url("assets/css/bootstrap.min.css");
+
+/*---mega menu .CSS ---*/
+@import url("assets/plugin/megamenu/css/hover-dropdown-menu.css");	
+
+/*---fonts .CSS ---*/
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700i|Montserrat:300,400,900|Open+Sans:300,400,700,800'); 
+
+/*---font-awesome css inluad---*/
+@import url("assets/plugin/font-awesome/css/font-awesome.min.css");
+/*---slider css inluad---*/
+
+@import url("assets/plugin/owl-carousel/css/owl.carousel.css");
+@import url("assets/plugin/owl-carousel/css/owl.theme.default.css");
+/*---fancybox css inluad---*/
+
+@import url("assets/plugin/fancy-box/css/jquery.fancybox.css");
+/*---Hover-Effect css inluad---*/
+
+@import url("assets/plugin/Hover-Effect/css/Hovereffect.css");
+/*---mixitup css inluad---*/
+
+@import url("assets/plugin/mixItUp/css/mixitup.css");
+/*---icon css inluad---*/
+
+@import url("assets/plugin/iconfont/iconfont.css");
+/*---style.css inluad---*/
+
+@import url("assets/css/style.css");
+/*---color.css inluad---*/
+
+@import url("assets/css/color.css");
+/*---sresponsive.css inluad---*/
+
+@import url("assets/css/responsive.css");

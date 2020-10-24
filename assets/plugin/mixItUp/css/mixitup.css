@@ -1,0 +1,39 @@
+.container-fluid{
+  text-align: justify;
+  font-size: 0.1px;
+  -webkit-backface-visibility: hidden;
+}
+
+.container-fluid .mix,
+.container-fluid .gap{
+  display: inline-block;
+}
+
+.container-fluid .mix{
+  display: none;
+}
+/*------
+.container-fluid .mix:after{
+  content: attr(data-myorder);
+  color: white;
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 4% 6%;
+  font-weight: 700;
+}
+---*/
+.container-fluid .mix:before{
+  content: '';
+  display: inline-block;
+  width:100%;
+  float:left;
+}
+.mixitup-btn a.filter {
+    font-size: 14px;
+    padding: 5px 20px;
+    display: inline-block;
+    color: #000;
+    margin-right:0px;
+	
+}
